@@ -1,0 +1,3 @@
+my_problem=int(input())
+for i in range(1,my_problem+1):
+    print(i,end='')
